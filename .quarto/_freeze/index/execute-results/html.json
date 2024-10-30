@@ -1,0 +1,15 @@
+{
+  "hash": "1e55e614350143e7bfdaacb464a53612",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Dionne Argyropoulos\"\nabout:\n  template: broadside  \n  image: placeholder.png # You can keep a placeholder or remove it if you prefer\n  links:\n    - icon: twitter-x\n      text: twitter\n      href: https://x.com/DionneArgy\n    - icon: github\n      text: Github\n      href: https://github.com/dionnecargy\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/dionneargy/\n    - icon: fingerprint\n      text: ORCID\n      href: https://orcid.org/0000-0002-8068-0215\n    - icon: google\n      text: Google Scholar\n      href: https://scholar.google.com/citations?user=clSfd8kAAAAJ&hl=en\n    - icon: envelope-fill\n      text: Current Email\n      href: dargyropoulo@student.unimelb.edu.au\n    - icon: slack\n      text: R-Ladies Melbourne Slack\n      href: https://join.slack.com/t/r-ladiesmelbourne/shared_invite/zt-2l871qpk6-4EbxzUm2M5ow8vpXDZMspg \n---\n\n<div id=\"customCarousel\" class=\"carousel slide\" data-bs-ride=\"carousel\">\n  <div class=\"carousel-inner\">\n    <div class=\"carousel-item active\">\n      <img src=\"image1.jpg\" class=\"d-block w-100\" alt=\"Profile Picture 1\">\n    </div>\n    <div class=\"carousel-item\">\n      <img src=\"image2.jpg\" class=\"d-block w-100\" alt=\"Profile Picture 2\">\n    </div>\n    <div class=\"carousel-item\">\n      <img src=\"image3.jpg\" class=\"d-block w-100\" alt=\"Profile Picture 3\">\n    </div>\n  </div>\n  <button class=\"carousel-control-prev\" type=\"button\" data-bs-target=\"#customCarousel\" data-bs-slide=\"prev\">\n    <span class=\"carousel-control-prev-icon\" aria-hidden=\"true\"></span>\n    <span class=\"visually-hidden\">Previous</span>\n  </button>\n  <button class=\"carousel-control-next\" type=\"button\" data-bs-target=\"#customCarousel\" data-bs-slide=\"next\">\n    <span class=\"carousel-control-next-icon\" aria-hidden=\"true\"></span>\n    <span class=\"visually-hidden\">Next</span>\n  </button>\n</div>\n\n\n\nDionne (she/her) is in the final stages of completing her PhD in the Genetic Epidemiology of *Plasmodium falciparum* malaria in high burden settings. Aside from the endless curiosity that sparks her joy in research, Dionne is true to her Melbourne-Greek heritage by being a Eurovision connoisseur and a foodie.\n\n## Education\n\n**University of Melbourne** \\| Melbourne, AU PhD in Genetics \\| Feb 2020 - Dec 2024\n\n**University of Melbourne** \\| Melbourne, AU MSc in BioSciences (Genetics) \\| Feb 2018 - Dec 2019\n\n**University of Melbourne** \\| Melbourne, AU BSc in Genetics \\| Feb 2015 - Dec 2017\n\n## Experience\n\n**R-Ladies Melbourne** \\| President \\| April 2024 - present\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
