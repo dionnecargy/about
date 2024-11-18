@@ -2,11 +2,13 @@
 title: "Dionne Argyropoulos"
 about:
   template: broadside
-  image: image1.jpg
+  image: images/image1.jpg
   links:
     - icon: twitter-x
       text: twitter
       href: https://x.com/DionneArgy
+    - text: <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="20" height="20" style="fill:#666666; position:relative; top:-2px;"> Bluesky
+      href: https://bsky.app/profile/dionnecargy.bsky.social
     - icon: github
       text: Github
       href: https://github.com/dionnecargy
@@ -38,5 +40,7 @@ Dionne (she/her) is in the final stages of completing her PhD in the Genetic Epi
 **University of Melbourne** \| Melbourne, AU BSc in Genetics \| Feb 2015 - Dec 2017
 
 ## Experience
+
+**WEHI (Walter & Eliza Hall Institute** \| Research Officer \| November 2024 - present 
 
 **R-Ladies Melbourne** \| President \| April 2024 - present
