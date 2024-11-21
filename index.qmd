@@ -7,7 +7,7 @@ about:
     - icon: twitter-x
       text: twitter
       href: https://x.com/DionneArgy
-    - text: <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="20" height="20" style="fill:#666666; position:relative; top:-2px;"> Bluesky
+    - text: "{{< iconify fa6-brands bluesky >}} Bluesky"
       href: https://bsky.app/profile/dionnecargy.bsky.social
     - icon: github
       text: Github
@@ -15,8 +15,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/dionneargy/
-    - icon: fingerprint
-      text: ORCID
+    - text: "{{< iconify fa6-brands orcid >}} ORCID"
       href: https://orcid.org/0000-0002-8068-0215
     - icon: google
       text: Google Scholar

@@ -39,6 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-5462d0dc975739fea4b7814f85fabdb2.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -112,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
      <span class="about-link-text">twitter</span>
   </a>
   <a href="https://bsky.app/profile/dionnecargy.bsky.social" class="about-link" rel="" target="">
-     <span class="about-link-text"><img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="20" height="20" style="fill:#666666; position:relative; top:-2px;"> Bluesky</span>
+     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:bluesky" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Icon bluesky from fa6-brands Iconify.design set."></iconify-icon> Bluesky</span>
   </a>
   <a href="https://github.com/dionnecargy" class="about-link" rel="" target="">
     <i class="bi bi-github"></i>
@@ -123,8 +124,7 @@ ul.task-list li input[type="checkbox"] {
      <span class="about-link-text">LinkedIn</span>
   </a>
   <a href="https://orcid.org/0000-0002-8068-0215" class="about-link" rel="" target="">
-    <i class="bi bi-fingerprint"></i>
-     <span class="about-link-text">ORCID</span>
+     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:orcid" aria-label="Icon orcid from fa6-brands Iconify.design set." title="Icon orcid from fa6-brands Iconify.design set."></iconify-icon> ORCID</span>
   </a>
   <a href="https://scholar.google.com/citations?user=clSfd8kAAAAJ&amp;hl=en" class="about-link" rel="" target="">
     <i class="bi bi-google"></i>
@@ -370,7 +370,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/dionnecargy\.github\.io\/website-about\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
