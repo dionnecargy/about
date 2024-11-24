@@ -5,7 +5,7 @@ about:
   image: images/image1.jpg
   links:
     - icon: twitter-x
-      text: twitter
+      text: Twitter
       href: https://x.com/DionneArgy
     - text: "{{< iconify fa6-brands bluesky >}} Bluesky"
       href: https://bsky.app/profile/dionnecargy.bsky.social
@@ -23,9 +23,6 @@ about:
     - icon: envelope-fill
       text: Current Email
       href: dargyropoulo@student.unimelb.edu.au
-    - icon: slack
-      text: R-Ladies Melbourne Slack
-      href: https://join.slack.com/t/r-ladiesmelbourne/shared_invite/zt-2l871qpk6-4EbxzUm2M5ow8vpXDZMspg 
 ---
 
 Dionne (she/her) is in the final stages of completing her PhD in the Genetic Epidemiology of *Plasmodium falciparum* malaria in high burden settings. Aside from the endless curiosity that sparks her joy in research, Dionne is true to her Melbourne-Greek heritage by being a Eurovision connoisseur and a foodie.
