@@ -1,0 +1,71 @@
+---
+---
+
+:::::: columns
+:::{.column width="40%"}
+
+\
+\
+\
+
+```{=html}
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="images/image1.jpg" class="d-block w-100" alt="Profile Picture 1">
+    </div>
+    <div class="carousel-item">
+      <img src="images/image2.jpg" class="d-block w-100" alt="Profile Picture 2">
+    </div>
+    <div class="carousel-item">
+      <img src="images/image3.jpg" class="d-block w-100" alt="Profile Picture 3">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+```
+
+:::
+
+
+:::{.column width="10%"}
+
+:::
+
+:::{.column width="50%"}
+
+# Dionne Argyropoulos 
+Dionne (she/her) is in the final stages of completing her PhD in the Genetic Epidemiology of *Plasmodium falciparum* malaria in high burden settings. Aside from the endless curiosity that sparks her joy in research, Dionne is true to her Melbourne-Greek heritage by being a Eurovision connoisseur and a foodie.
+
+## Education
+
+**University of Melbourne** \| 🇦🇺 PhD in Genetics \| Feb 2020 - Dec 2024
+
+**University of Melbourne** \| 🇦🇺 MSc in BioSciences (Genetics) \| Feb 2018 - Dec 2019
+
+**University of Melbourne** \| 🇦🇺 BSc in Genetics \| Feb 2015 - Dec 2017
+
+## Experience
+
+**WEHI (Walter & Eliza Hall Institute)** \| Research Officer \| Nov 2024 - present 
+
+**R-Ladies Melbourne** \| President \| Apr 2024 - present
+
+:::
+::::
+
+<div class="spread-links">
+  <a href="https://bsky.app/profile/dionnecargy.bsky.social">{{< iconify fa6-brands bluesky >}} Bluesky</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dionnecargy"><i class="bi bi-github"></i> Github</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dionneargy/"><i class="bi bi-linkedin"></i> LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://orcid.org/0000-0002-8068-0215">{{< iconify fa6-brands orcid >}} ORCID</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=clSfd8kAAAAJ&hl=en"><i class="bi bi-google"></i> Google Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="argyropoulos.d@wehi.edu.au"><i class="bi bi-envelope-fill"></i> Email</a>
+</div>

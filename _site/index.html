@@ -104,24 +104,20 @@ gtag('config', 'G-5L9T7K8KSS', { 'anonymize_ip': true});
 <p>Dionne (she/her) is in the final stages of completing her PhD in the Genetic Epidemiology of <em>Plasmodium falciparum</em> malaria in high burden settings. Aside from the endless curiosity that sparks her joy in research, Dionne is true to her Melbourne-Greek heritage by being a Eurovision connoisseur and a foodie.</p>
 <section id="education" class="level2">
 <h2 data-anchor-id="education">Education</h2>
-<p><strong>University of Melbourne</strong> | Melbourne, AU PhD in Genetics | Feb 2020 - Dec 2024</p>
-<p><strong>University of Melbourne</strong> | Melbourne, AU MSc in BioSciences (Genetics) | Feb 2018 - Dec 2019</p>
-<p><strong>University of Melbourne</strong> | Melbourne, AU BSc in Genetics | Feb 2015 - Dec 2017</p>
+<p><strong>University of Melbourne</strong> | 🇦🇺 PhD in Genetics | Feb 2020 - Dec 2024</p>
+<p><strong>University of Melbourne</strong> | 🇦🇺 MSc in BioSciences (Genetics) | Feb 2018 - Dec 2019</p>
+<p><strong>University of Melbourne</strong> | 🇦🇺 BSc in Genetics | Feb 2015 - Dec 2017</p>
 </section>
 <section id="experience" class="level2">
 <h2 data-anchor-id="experience">Experience</h2>
-<p><strong>WEHI (Walter &amp; Eliza Hall Institute)</strong> | Research Officer | November 2024 - present</p>
-<p><strong>R-Ladies Melbourne</strong> | President | April 2024 - present</p>
+<p><strong>WEHI (Walter &amp; Eliza Hall Institute)</strong> | Research Officer | Nov 2024 - present</p>
+<p><strong>R-Ladies Melbourne</strong> | President | Apr 2024 - present</p>
 
 
 </section>
 </main></div>
   </div>
   <div class="about-links">
-  <a href="https://x.com/DionneArgy" class="about-link" rel="" target="">
-    <i class="bi bi-twitter-x"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
   <a href="https://bsky.app/profile/dionnecargy.bsky.social" class="about-link" rel="" target="">
      <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:bluesky" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Icon bluesky from fa6-brands Iconify.design set."></iconify-icon> Bluesky</span>
   </a>
@@ -132,6 +128,10 @@ gtag('config', 'G-5L9T7K8KSS', { 'anonymize_ip': true});
   <a href="https://www.linkedin.com/in/dionneargy/" class="about-link" rel="" target="">
     <i class="bi bi-linkedin"></i>
      <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://x.com/DionneArgy" class="about-link" rel="" target="">
+    <i class="bi bi-twitter-x"></i>
+     <span class="about-link-text">Twitter</span>
   </a>
   <a href="https://orcid.org/0000-0002-8068-0215" class="about-link" rel="" target="">
      <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:orcid" aria-label="Icon orcid from fa6-brands Iconify.design set." title="Icon orcid from fa6-brands Iconify.design set."></iconify-icon> ORCID</span>
@@ -376,7 +376,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/dionnecargy\.github\.io\/website-about\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

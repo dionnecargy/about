@@ -5,7 +5,7 @@ website:
   title: ""
   favicon: images/favicon.png
   google-analytics: "G-5L9T7K8KSS"
-
+  
 format:
   html:
     theme: 
@@ -13,6 +13,7 @@ format:
       dark: [cosmo, theme-dark.css]
     css: styles.css
     toc: false
+    fontawesome: true
 
 editor: visual
 

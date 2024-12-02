@@ -4,9 +4,6 @@ about:
   template: broadside
   image: images/image1.jpg
   links:
-    - icon: twitter-x
-      text: Twitter
-      href: https://x.com/DionneArgy
     - text: "{{< iconify fa6-brands bluesky >}} Bluesky"
       href: https://bsky.app/profile/dionnecargy.bsky.social
     - icon: github
@@ -15,6 +12,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/dionneargy/
+    - icon: twitter-x
+      text: Twitter
+      href: https://x.com/DionneArgy
     - text: "{{< iconify fa6-brands orcid >}} ORCID"
       href: https://orcid.org/0000-0002-8068-0215
     - icon: google
@@ -29,14 +29,14 @@ Dionne (she/her) is in the final stages of completing her PhD in the Genetic Epi
 
 ## Education
 
-**University of Melbourne** \| Melbourne, AU PhD in Genetics \| Feb 2020 - Dec 2024
+**University of Melbourne** \| 🇦🇺 PhD in Genetics \| Feb 2020 - Dec 2024
 
-**University of Melbourne** \| Melbourne, AU MSc in BioSciences (Genetics) \| Feb 2018 - Dec 2019
+**University of Melbourne** \| 🇦🇺 MSc in BioSciences (Genetics) \| Feb 2018 - Dec 2019
 
-**University of Melbourne** \| Melbourne, AU BSc in Genetics \| Feb 2015 - Dec 2017
+**University of Melbourne** \| 🇦🇺 BSc in Genetics \| Feb 2015 - Dec 2017
 
 ## Experience
 
-**WEHI (Walter & Eliza Hall Institute)** \| Research Officer \| November 2024 - present 
+**WEHI (Walter & Eliza Hall Institute)** \| Research Officer \| Nov 2024 - present 
 
-**R-Ladies Melbourne** \| President \| April 2024 - present
+**R-Ladies Melbourne** \| President \| Apr 2024 - present

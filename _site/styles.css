@@ -10,3 +10,22 @@ h2 {
 p {
   font-size: 15px;
 }
+.spread-links {
+  display: flex;
+  justify-content: space-evenly; /* Spread links evenly across the page */
+  align-items: center;
+  flex-wrap: wrap; /* Wrap to a new line if needed */
+  gap: 2rem; /* Space between the links */
+  padding: 1em 0; /* Optional: Spacing above and below the container */
+}
+
+.spread-links a {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Match text color with the document theme */
+  font-size: 1rem; /* Adjust size as needed */
+  color: #66666e; /* Replace with your desired color */
+}
+
+.spread-links a:hover {
+  color: #3e7cb1; /* Replace with your desired hover color */
+}
